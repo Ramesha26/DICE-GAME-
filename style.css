@@ -59,8 +59,13 @@ footer {
 }
 @media (max-width: 360px) {
     body {
-        width: 200%;
+        width: 100%;
+    }
+    footer {
+        text-align: end;
+        margin-bottom : 20px;
     }
 }
+
 
 
