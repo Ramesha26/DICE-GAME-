@@ -57,4 +57,10 @@ footer {
   right: 10px;
   bottom: 30px;
 }
+@media (max-width: 360px) {
+    body {
+        width: 200%;
+    }
+}
+
 
