@@ -57,15 +57,8 @@ footer {
   right: 10px;
   bottom: 30px;
 }
-@media (max-width: 360px) {
-    body {
-        width: 100%;
-    }
-    footer {
-        text-align: end;
-        margin-bottom : 20px;
-    }
-}
+
+
 
 
 
